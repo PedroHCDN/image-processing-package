@@ -1,16 +1,24 @@
-# package_name
+# image_processing_Pedro_HCDN
 
 Description. 
-The package package_name is used to:
-	- 
-	-
+O pacote image_processing_Pedro_HCDN é usado para:
+	Processos:
+	- Corresponder histogram
+	- Similaridade estrutural
+	- Redimensionar imagem
+	Utils:
+	- read_image
+	- save_image
+	- plot_image
+	- plot_result
+	- plot_histogram
 
 ## Installation
 
 Use the package manager [pip](https://pip.pypa.io/en/stable/) to install package_name
 
 ```bash
-pip install package_name
+pip image_processing_Pedro_HCDN
 ```
 
 ## Usage
@@ -21,7 +29,7 @@ file1_name.my_function()
 ```
 
 ## Author
-My_name
+Pedro Henrique Chagas do Nascimento
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
