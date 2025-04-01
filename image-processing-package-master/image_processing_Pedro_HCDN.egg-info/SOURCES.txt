@@ -1,0 +1,14 @@
+README.md
+setup.py
+image_processing_Pedro_HCDN/__init__.py
+image_processing_Pedro_HCDN.egg-info/PKG-INFO
+image_processing_Pedro_HCDN.egg-info/SOURCES.txt
+image_processing_Pedro_HCDN.egg-info/dependency_links.txt
+image_processing_Pedro_HCDN.egg-info/requires.txt
+image_processing_Pedro_HCDN.egg-info/top_level.txt
+image_processing_Pedro_HCDN/processing/__init__.py
+image_processing_Pedro_HCDN/processing/combination.py
+image_processing_Pedro_HCDN/processing/transformation.py
+image_processing_Pedro_HCDN/utils/__init__.py
+image_processing_Pedro_HCDN/utils/io.py
+image_processing_Pedro_HCDN/utils/plot.py
