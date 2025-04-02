@@ -1,7 +1,8 @@
 # image_processing_Pedro_HCDN
 
 Description. 
-O pacote image_processing_Pedro_HCDN é usado para:\n
+O pacote image_processing_Pedro_HCDN é usado para:
+
 	Processos:
 	- Corresponder histogram
 	- Similaridade estrutural
